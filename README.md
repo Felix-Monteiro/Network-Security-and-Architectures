@@ -3,11 +3,9 @@ These projects were done in the Advanced Network Security and Architectures cour
 
 ### Grades:
 
-**Project 1:** 18/20
-
-**Project 2:** 19/20
-
-**Project 3:** 20/20
+* **Project 1:** 18/20
+* **Project 2:** 19/20
+* **Project 3:** 20/20
 ------------------------------
 ## Table of Contents
 - [Network Attacks & Countermeasures](#project-1-network-attacks-&-countermeasures)
