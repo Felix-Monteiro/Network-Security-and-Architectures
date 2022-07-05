@@ -2,9 +2,12 @@
 These projects were done in the Advanced Network Security and Architectures course. The primary purpose was to study the principles and techniques for designing and managing secure network infrastructures in isolated environments using GNS3.
 
 ### Grades:
-** Project 1: 18/20
-** Project 1: 19/20
-** Project 3: 20/20
+
+** Project 1:** 18/20
+
+** Project 2:** 19/20
+
+** Project 3:** 20/20
 ------------------------------
 ## Table of Contents
 - [Network Attacks & Countermeasures](#project-1-network-attacks-&-countermeasures)
