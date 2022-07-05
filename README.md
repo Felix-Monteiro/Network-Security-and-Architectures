@@ -100,7 +100,7 @@ This project discusses the networking of virtual containers, covering Linux netw
 
 **Config File:** Configurations inside the report in Annex
 
-This project discusses the networking of virtual containers, covering Linux network namespaces, Docker, and Docker Swarm.
+This project discusses Kubernetes and Kubernetes networking along with Docker technology, particularly comparing a service's deployment in swarm versus Kubernetes.
 
 ### Topics:
 * Kubernetes Networking
