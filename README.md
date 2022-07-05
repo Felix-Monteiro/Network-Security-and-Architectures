@@ -12,9 +12,10 @@ These projects were done in the Advanced Network Security and Architectures cour
 
 ------------------------------
 ## Project 1 Network Attacks and Countermeasures
-Report: [`Network Attacks & Mitigations`](Project_1.pdf)
+**Report:** [`Network Attacks & Mitigations`](Project_1.pdf)
 
-Config File: Configurations inside the report in Annex 
+**Pages:** 1-41
+**Config File:** Configurations inside the report in Annex 
 
 This report discusses some network vulnerabilities and countermeasures. It also explains the steps to reproduce such attacks, the steps to prevent them, and some theoretical concepts necessary for understanding them.
 
@@ -28,12 +29,11 @@ This report discusses some network vulnerabilities and countermeasures. It also 
 * DNS spoofing using DHCP spoofing
 
 ------------------------------
-# Project 1 Firewalls
-Report: [`Firewalls`](Project_1.pdf)
+## Project 1 Firewalls
+**Report:** [`Firewalls`](Project_1.pdf)
 
-Pages: 41-68
-
-Config File: Configurations inside the report in Annex
+**Pages:** 41-68
+**Config File:** Configurations inside the report in Annex
 
 This project discusses Firewalls architectures and types. With further investigation regarding Firewalls in campus networks, ZBPF versus classical firewalls and their influence on DoS attacks.
 
@@ -43,12 +43,11 @@ This project discusses Firewalls architectures and types. With further investiga
 * Defence against DoS attacks
 
 ------------------------------
-# Project 1 AAA
-Report: [`AAA`](Project_1.pdf)
+## Project 1 AAA
+**Report:** [`AAA`](Project_1.pdf)
 
-Pages: 68-82
-
-Config File: Configurations inside the report in Annex
+**Pages:** 68-82
+**Config File:** Configurations inside the report in Annex
 
 This project discusses AAA, which stands for Authentication, Authorization and Accounting (basically, it is a framework used to control who is permitted to use the network resources - authentication - what they are authorized to do - authorization - and capture the actions performed while accessing the network - accounting).
 
